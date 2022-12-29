@@ -22,7 +22,6 @@ html{
     align-items: center;
     position: sticky;
     top: 0px;
-
 }
 
 /* Navigation Bar: Logo and Image  */
@@ -98,10 +97,12 @@ html{
 
 /* Services Section  */
 #services{
-    margin: 50px;
+    margin: 5px 2px;
     display: flex;
 }
 .box{
+    /* width: auto; */
+    text-align: center;
     border: 2px solid red;
     padding: 30px;
     margin: 2px 15px;
